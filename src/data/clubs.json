@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Real Madrid" },
+  { "id": 2, "name": "Manchester City" },
+  { "id": 3, "name": "Manchester United" },
+  { "id": 4, "name": "Barcelona" },
+  { "id": 5, "name": "Bayern Munich" },
+  { "id": 6, "name": "Liverpool" },
+  { "id": 7, "name": "Paris Saint-Germain" },
+  { "id": 8, "name": "Chelsea" },
+  { "id": 9, "name": "Arsenal" },
+  { "id": 10, "name": "Juventus" },
+  { "id": 11, "name": "Inter de Milão" },
+  { "id": 12, "name": "Milan" },
+  { "id": 13, "name": "Atlético de Madrid" },
+  { "id": 14, "name": "Napoli" },
+  { "id": 15, "name": "Borussia Dortmund" },
+  { "id": 16, "name": "Tottenham Hotspur" },
+  { "id": 17, "name": "Ajax" },
+  { "id": 18, "name": "Benfica" },
+  { "id": 19, "name": "Sevilla" },
+  { "id": 20, "name": "Porto" }
+]
